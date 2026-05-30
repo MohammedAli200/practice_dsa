@@ -1,6 +1,4 @@
-package day26;
-
-import java.util.*;
+package day27;
 
 public class MajorityElement {
     public static void main(String[] args) {
